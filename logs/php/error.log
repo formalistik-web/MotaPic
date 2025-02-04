@@ -1,0 +1,23 @@
+[04-Feb-2025 09:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenir_image_aleatoire_photo() in C:\Users\charl\Local Sites\mota\app\public\wp-content\themes\Natmota\index.php:2
+Stack trace:
+#0 C:\Users\charl\Local Sites\mota\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\charl\Local Sites\mota\app\public\wp-blog-header.php(19): require_once('C:\\Users\\charl\\...')
+#2 C:\Users\charl\Local Sites\mota\app\public\index.php(17): require('C:\\Users\\charl\\...')
+#3 {main}
+  thrown in C:\Users\charl\Local Sites\mota\app\public\wp-content\themes\Natmota\index.php on line 2
+[04-Feb-2025 09:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenir_image_aleatoire_photo() in C:\Users\charl\Local Sites\mota\app\public\wp-content\themes\Natmota\index.php:2
+Stack trace:
+#0 C:\Users\charl\Local Sites\mota\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\charl\Local Sites\mota\app\public\wp-blog-header.php(19): require_once('C:\\Users\\charl\\...')
+#2 C:\Users\charl\Local Sites\mota\app\public\index.php(17): require('C:\\Users\\charl\\...')
+#3 {main}
+  thrown in C:\Users\charl\Local Sites\mota\app\public\wp-content\themes\Natmota\index.php on line 2
+[04-Feb-2025 09:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenir_image_aleatoire_photo() in C:\Users\charl\Local Sites\mota\app\public\wp-content\themes\Natmota\index.php:2
+Stack trace:
+#0 C:\Users\charl\Local Sites\mota\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\charl\Local Sites\mota\app\public\wp-blog-header.php(19): require_once('C:\\Users\\charl\\...')
+#2 C:\Users\charl\Local Sites\mota\app\public\index.php(17): require('C:\\Users\\charl\\...')
+#3 {main}
+  thrown in C:\Users\charl\Local Sites\mota\app\public\wp-content\themes\Natmota\index.php on line 2
+[04-Feb-2025 09:46:58 UTC] PHP Warning:  Undefined variable $image_aleatoire_photo in C:\Users\charl\Local Sites\mota\app\public\wp-content\themes\Natmota\index.php on line 4
+[04-Feb-2025 10:17:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\charl\Local Sites\mota\app\public\wp-includes\class-wp-customize-widgets.php on line 923
